@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-my name is Anusha Verma. I am researching on AI/ML for improving hospital Administration. 
+my name is Anusha Verma. I am a researcher at Wright State University.
 <!--
 **verma53665/verma53665** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
