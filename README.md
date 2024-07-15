@@ -1,6 +1,9 @@
 ## Hi there 👋
 
 my name is Anusha Verma. I am a researcher at Wright State University.
+
+- 🔭 I’m currently working on Explainable and Reliable Machine Learning.
+
 <!--
 **verma53665/verma53665** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
